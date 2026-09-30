@@ -1,0 +1,1 @@
+This repository will represent a Kinyarwanda version of the wordle game. But first, let's play with the HuggingFace models that translate Kinyarwanda. As a native Kinyarwanda speaker, this will be a chance for me to experience the llm and natural language advancements in Kinyarwanda.
