@@ -1,0 +1,11 @@
+[project]
+name = "ijambo"
+version = "0.1.0"
+description = "ijambo ry'umunsi is a kinyarwanda word game inspired by wordle. The goal is to provide an entertaining way to get familiar with the language while also providing a learnign opportunity for the developer."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+ "fastapi>=0.142.2",
+ "sentencepiece>=0.2.2",
+ "transformers[torch]",
+]
